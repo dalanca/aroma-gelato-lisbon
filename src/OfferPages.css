@@ -1,0 +1,157 @@
+.offerPage {
+  min-height: 100vh;
+  padding: 32px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: inherit;
+}
+
+.offerPage.gold .offerImage {
+  max-height: 500px;
+}
+
+.offerPage.silver {
+  background: linear-gradient(135deg, #ffffff, #d8d8d8);
+}
+
+.buttonRow {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.directionsButton,
+.menuButton {
+  width: 220px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 18px;
+  box-sizing: border-box;
+}
+
+.directionsButton {
+  background: #1f2f46;
+  color: white;
+}
+
+.menuButton {
+  background: white;
+  color: #1f2f46;
+  border: 1px solid rgba(31, 47, 70, 0.25);
+}
+.menuButton:hover {
+  opacity: 0.9;
+}
+
+.directionsButton:hover {
+  opacity: 0.9;
+}
+.heroImage {
+  width: 100%;
+  max-height: 380px;
+  object-fit: contain;
+  border-radius: 20px;
+  margin-bottom: 24px;
+}
+.offerPage.blue {
+  background: linear-gradient(135deg, #eef7ff, #83bde8);
+}
+
+.offerCard {
+  width: 100%;
+  max-width: 520px;
+  background: #fffaf4;
+  border-radius: 28px;
+  padding: 30px 24px;
+  text-align: center;
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.18);
+}
+
+.brand {
+  font-size: 14px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  color: #8a6a2f;
+  font-weight: 700;
+}
+
+.offerCard h1 {
+  font-size: 32px;
+  line-height: 1.1;
+  margin: 0 0 12px;
+  color: #1f2f46;
+}
+
+.subtitle {
+  font-size: 17px;
+  color: #555;
+  margin-bottom: 24px;
+}
+
+.offers {
+  display: grid;
+  gap: 16px;
+}
+
+.offerBox {
+  background: white;
+  border: 1px solid rgba(31, 47, 70, 0.12);
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.offerBox h2 {
+  font-size: 22px;
+  margin: 0 0 8px;
+  color: #1f2f46;
+}
+
+.offerBox p {
+  margin: 0 0 12px;
+  color: #555;
+  font-size: 16px;
+}
+
+.offerImage {
+  width: 100%;
+  max-height: 500px;
+  object-fit: contain;
+  border-radius: 16px;
+  margin-bottom: 16px;
+  background: #fffaf4;
+}
+.price {
+  font-size: 24px;
+  font-weight: 800;
+  color: #b78628;
+}
+
+.redeem {
+  margin-top: 22px;
+  font-size: 15px;
+  color: #444;
+}
+
+.terms {
+  margin-top: 22px;
+  font-size: 15px;
+  color: #444;
+}
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.offerLogo {
+  width: 120px;
+  height: auto;
+}
