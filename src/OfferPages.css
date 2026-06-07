@@ -37,8 +37,8 @@
 }
 
 .directionsButton {
-  background: #1f2f46;
-  color: white;
+  border: none;
+  cursor: pointer;
 }
 
 .menuButton {
