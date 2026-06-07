@@ -81,14 +81,21 @@ console.log("QR Tracking", {
         </p>
 
         <div className="buttonRow">
-  <a
-    className="directionsButton"
-    href={mapsUrl}
-    target="_blank"
-    rel="noreferrer"
-  >
-    Get Directions
-  </a>
+        <a
+  className="directionsButton"
+  href={mapsUrl}
+  target="_blank"
+  rel="noreferrer"
+  onClick={() => {
+    if (window.gtag) {
+      window.gtag("event", "get_directions_click", {
+        offer_page: title,
+      });
+    }
+  }}
+>
+  Get Directions
+</a>
 
   <a className="menuButton" href="/#menu">
     View Menu
