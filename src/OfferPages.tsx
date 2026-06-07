@@ -5,6 +5,13 @@ import magnificoCone from "./images/magnifico-cone.png";
 import comboOffer from "./images/combo-offer.jpeg";
 import kidscone from "./images/kids-cone.png";
 import aromaLogo from "./images/aroma-logo.jpeg";
+
+declare global {
+  interface Window {
+    gtag?: (...args: unknown[]) => void;
+  }
+}
+
 const mapsUrl =
   "https://www.google.com/maps/search/?api=1&query=aROMA+Gelato+Experience+Chiado+Lisbon";
 
