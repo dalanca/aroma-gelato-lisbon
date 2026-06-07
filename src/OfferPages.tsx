@@ -1,4 +1,3 @@
-import React from "react";
 import "./OfferPages.css";
 
 import waffleBowlPistachio from "./images/waffle-bowl-pistachio.jpeg";
