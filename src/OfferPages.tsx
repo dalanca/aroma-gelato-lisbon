@@ -1,5 +1,6 @@
 import "./OfferPages.css";
-
+import magnificoCup from "./images/magnifico-cup.png";
+import degustationMenu from "./images/degustation-menu-12.jpg";
 import waffleBowlPistachio from "./images/waffle-bowl-pistachio.jpeg";
 import magnificoCone from "./images/magnifico-cone.png";
 import comboOffer from "./images/combo-offer.jpeg";
@@ -139,24 +140,29 @@ export function FestivalOffer() {
   return (
     <OfferPage
       type="silver"
-      heroImage={comboOffer}
-      title="Santo António Festival Offers"
-      subtitle="Celebrate with our gelato, coffee and Pastel de Nata combos."
+      title="Santo António Sharing Experiences"
+      subtitle="Share something sweet together during Lisbon's favourite festival."
       offers={[
         {
-          name: "Gelato Regolare + Iced Coffee",
-          description: "1x Gelato Regolare + Iced Caffé/Latte",
-          price: "€8.90",
+          name: "Waffle Bowl Sharing Experience",
+          description:
+            "Perfect to share. Waffle Bowl + 2 Complimentary Iced Coffees",
+          price: "Festival Special €12.90",
+          image: waffleBowlPistachio,
         },
         {
-          name: "Pastel de Nata with Gelato + Iced Coffee",
-          description: "1x Pastel de Nata with Gelato + Iced Caffé/Latte",
-          price: "€7.90",
+          name: "Magnífico Cup Sharing Experience",
+          description:
+            "Perfect to share. 4 artisan gelato flavours + 2 Complimentary Iced Coffees",
+          price: "Festival Special €12.90",
+          image: magnificoCup,
         },
         {
-          name: "Pastel de Nata + Iced Coffee",
-          description: "1x Pastel de Nata + Iced Caffé/Latte",
-          price: "€5.90",
+          name: "12 Flavour Degustation Experience",
+          description:
+            "Perfect to share with friends and family. Taste 12 artisan gelato flavours",
+          price: "Festival Special €19.90",
+          image: degustationMenu,
         },
       ]}
     />
