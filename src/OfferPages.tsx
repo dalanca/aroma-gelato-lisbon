@@ -3,7 +3,6 @@ import magnificoCup from "./images/magnifico-cup.png";
 import degustationMenu from "./images/degustation-menu-12.jpg";
 import waffleBowlPistachio from "./images/waffle-bowl-pistachio.jpeg";
 import magnificoCone from "./images/magnifico-cone.png";
-import comboOffer from "./images/combo-offer.jpeg";
 import kidscone from "./images/kids-cone.png";
 import aromaLogo from "./images/aroma-logo.jpeg";
 
