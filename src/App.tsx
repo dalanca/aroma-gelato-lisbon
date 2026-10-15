@@ -834,7 +834,7 @@ backgroundPosition: "center",
         }}
       >
         <h3>Featured by Echo Boomer Tech and Lifestyle</h3>
-        <p>“aROMA Gelato abre no Chiado a sua primeira gelataria em Portugal.”</p>
+        <p>“La Dolceria aRoma Lisboa abre no Chiado a sua primeira gelataria em Portugal.”</p>
         <a href="https://echoboomer.pt/la-dolceria-aroma-chiado-primeira-loja-portugal/" target="_blank" style={{ color: "#f3d6b6", fontWeight: 600 }}>
           Read More Echo Boomer →
         </a>
@@ -970,7 +970,7 @@ backgroundPosition: "center",
     </div>
 
     <iframe
-      title="aROMA Gelato Lisbon Google Map"
+      title="La Dolceria aRoma Lisbon Google Map"
       loading="lazy"
       src="https://maps.google.com/maps?width=100%25&height=600&hl=en&q=Rua%20do%20Loreto%2018%20Lisboa&t=&z=15&ie=UTF8&iwloc=B&output=embed"
       width="100%"
