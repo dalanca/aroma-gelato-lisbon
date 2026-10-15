@@ -654,7 +654,7 @@ backgroundPosition: "center",
       },
       {
         q: "Where can I find the best gelato in Lisbon?",
-        a: "aROMA Gelato Experience in Chiado offers authentic Italian artisan gelato, specialty coffee and elegant desserts in the heart of Lisbon. Our Gelato is made of the finest ingredients to be found and is free of any additives",
+        a: "La Dolceria aRoma Lisbon in Chiado offers authentic Italian artisan gelato, specialty coffee and elegant desserts in the heart of Lisbon. Our Gelato is made of the finest ingredients to be found and is free of any additives",
       },
       {
         q: "Do you serve specialty coffee?",
@@ -869,15 +869,15 @@ backgroundPosition: "center",
 {[
   {
     image: gelatoCounter,
-    alt: "Artisan gelato at aROMA Gelato Experience in Lisbon",
+    alt: "Artisan gelato at La Dolceria aRoma Lisbon ",
   },
   {
     image: coffeePhoto,
-    alt: "Specialty coffee at aROMA Gelato Experience in Lisbon",
+    alt: "Specialty coffee at La Dolceria aRoma Lisbon ",
   },
   {
     image: interiorPhoto,
-    alt: "Luxury interior of aROMA Gelato Experience in Chiado Lisbon",
+    alt: "Luxury interior of La Dolceria aRoma Lisbon in Chiado",
   },
   {
     image: pistachioGelato,
