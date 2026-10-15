@@ -159,7 +159,7 @@ export default function App() {
               marginBottom: 20,
             }}
           >
-            aROMA GELATO EXPERIENCE • LISBON
+            LA DOLCERIA aROMA • LISBON
           </div>
           <div
   style={{
@@ -250,7 +250,7 @@ export default function App() {
               fontSize: 18,
             }}
           >
-            aROMA Gelato Experience blends artisan Italian craftsmanship,
+            LA DOLCERIA aROMA • LISBON blends artisan Italian craftsmanship,
             specialty coffee culture and refined dolceria traditions into a
             luxury Lisbon dessert destination.
           </p>
@@ -522,7 +522,7 @@ backgroundPosition: "center",
         marginBottom: 24,
       }}
     >
-      Located in the heart of Chiado, aROMA Gelato Experience brings authentic
+      Located in the heart of Chiado, LA DOLCERIA aROMA • LISBON brings authentic
       Italian gelato craftsmanship to Lisbon. Our gelato is created with a focus
       on premium ingredients, smooth texture and balanced flavour, offering a
       refined alternative to ordinary ice cream.
@@ -573,7 +573,7 @@ backgroundPosition: "center",
         marginBottom: 24,
       }}
     >
-      aROMA Gelato Experience combines artisan Italian gelato with a refined
+      LA DOLCERIA aROMA • LISBON combines artisan Italian gelato with a refined
       specialty coffee experience in the centre of Lisbon. From expertly
       prepared espresso and flat whites to indulgent affogato creations, our
       coffee offering is designed to complement our dolceria and gelato menu.
@@ -661,8 +661,8 @@ backgroundPosition: "center",
         a: "Yes. aROMA serves espresso, flat whites, affogato and other specialty coffee creations designed to pair beautifully with our gelato and desserts. We are truly farm to cup, not only do we roast our coffee, we grow it! We have our own plantations in South America and Africa.",
       },
       {
-        q: "Where is aROMA Gelato Experience located?",
-        a: "aROMA Gelato Experience is located in Chiado, one of Lisbon’s most vibrant and historic neighbourhoods.",
+        q: "Where is LA DOLCERIA aROMA • LISBON located?",
+        a: "LA DOLCERIA aROMA • LISBON is located in Chiado, one of Lisbon’s most vibrant and historic neighbourhoods.",
       },
     ].map((faq) => (
       <div
@@ -731,7 +731,7 @@ backgroundPosition: "center",
         marginBottom: 24,
       }}
     >
-      Located in the heart of Chiado, aROMA Gelato Experience offers a refined
+      Located in the heart of Chiado, LA DOLCERIA aROMA • LISBON offers a refined
       pause in one of Lisbon’s most iconic neighbourhoods. Surrounded by
       historic streets, boutiques and cultural landmarks, our gelateria and
       dolceria is designed for both locals and visitors exploring the city.
@@ -764,7 +764,7 @@ backgroundPosition: "center",
     </h2>
 
     <p style={{ color: colors.textSoft, lineHeight: 1.8, marginBottom: 40 }}>
-      aROMA Gelato Experience has been recognised by local media for its
+      LA DOLCERIA aROMA • LISBON has been recognised by local media for its
       artisan gelato, specialty coffee and boutique dolceria experience in
       Chiado.
     </p>
