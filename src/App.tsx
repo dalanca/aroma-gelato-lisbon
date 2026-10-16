@@ -20,7 +20,7 @@ export default function App() {
   
     if (path === "/festivaloffer") {
       return <FestivalOffer />;
-    }src="/la-dolceria-aroma-logo-original-transparent.png"
+    }
   
     if (path === "/familyoffer") {
       return <FamilyOffer />;
@@ -106,7 +106,7 @@ export default function App() {
 
 <a href="/" aria-label="La Dolceria aRoma Lisbon homepage">
   <img
-    src="/la-dolceria-aroma-logo.png"
+    src="/la-dolceria-aroma-logo-original-transparent.png"
     alt="La Dolceria aRoma Lisbon"
     style={{
       width: "64px",
