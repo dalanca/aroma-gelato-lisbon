@@ -20,7 +20,7 @@ export default function App() {
   
     if (path === "/festivaloffer") {
       return <FestivalOffer />;
-    }
+    }src="/la-dolceria-aroma-logo-original-transparent.png"
   
     if (path === "/familyoffer") {
       return <FamilyOffer />;
