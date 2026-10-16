@@ -97,26 +97,31 @@ export default function App() {
     style={{
       maxWidth: 1200,
       margin: "0 auto",
-      padding: "18px 40px",
+      padding: "10px 20px",
       display: "flex",
       justifyContent: "space-between",
       alignItems: "center",
     }}
   >
-    <div
-      style={{
-        fontSize: 20,
-        letterSpacing: 2,
-        fontWeight: 600,
-      }}
-    >
-      aROMA
-    </div>
+
+<a href="/" aria-label="La Dolceria aRoma Lisbon homepage">
+  <img
+    src="/la-dolceria-aroma-logo.png"
+    alt="La Dolceria aRoma Lisbon"
+    style={{
+      width: "64px",
+      height: "64px",
+      objectFit: "contain",
+      display: "block",
+    }}
+  />
+</a>
+
 
     <div
       style={{
         display: "flex",
-        gap: 30,
+        gap: 16,
         fontSize: 14,
         letterSpacing: 1,
       }}
