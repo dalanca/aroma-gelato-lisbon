@@ -63,7 +63,7 @@ export default function App() {
       }
 
       .hero-title {
-        font-size: 46px !important;
+        font-size: 38px !important;
       }
 
       .section-padding {
@@ -174,15 +174,18 @@ export default function App() {
     margin: "0 auto 30px auto",
   }}
 />
-          <h1
-            style={{
-              fontSize: "clamp(48px, 7vw, 84px)",
-              fontWeight: 300,
-              marginBottom: 20,
-            }}
-          >
-            Best Artisan Gelato in Lisbon
-          </h1>
+
+<h1
+  className="hero-title"
+  style={{
+    fontSize: "clamp(48px, 7vw, 84px)",
+    fontWeight: 300,
+    marginBottom: 20,
+  }}
+>
+  Best Artisan Gelato in Lisbon
+</h1>
+
 
           <p
   style={{
@@ -1079,7 +1082,7 @@ backgroundPosition: "center",
     boxShadow: "0 12px 30px rgba(0,0,0,0.2)",
   }}
 >
-  Get Directions to La Dolceria aRoma Lisbon
+  Get Directions
 </a>
 
     </div>
