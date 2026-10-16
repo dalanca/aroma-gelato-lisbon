@@ -250,7 +250,7 @@ export default function App() {
               fontSize: 18,
             }}
           >
-            LA DOLCERIA aROMA • LISBON blends artisan Italian craftsmanship,
+            La Dolceria aRoma Lisbon blends artisan Italian craftsmanship,
             specialty coffee culture and refined dolceria traditions into a
             luxury Lisbon dessert destination.
           </p>
@@ -522,7 +522,7 @@ backgroundPosition: "center",
         marginBottom: 24,
       }}
     >
-      Located in the heart of Chiado, LA DOLCERIA aROMA • LISBON brings authentic
+      Located in the heart of Chiado, La Dolceria aRoma Lisbon brings authentic
       Italian gelato craftsmanship to Lisbon. Our gelato is created with a focus
       on premium ingredients, smooth texture and balanced flavour, offering a
       refined alternative to ordinary ice cream.
@@ -536,7 +536,7 @@ backgroundPosition: "center",
       }}
     >
       From classics such as Madagascar vanilla, pistachio and tiramisu to
-      seasonal specialties and elegant dolceria pairings, LA DOLCERIA aROMA • LISBON is designed for
+      seasonal specialties and elegant dolceria pairings, La Dolceria aRoma Lisbon is designed for
       guests looking for a memorable artisan gelato experience in Lisbon.
     </p>
   </div>
@@ -573,7 +573,7 @@ backgroundPosition: "center",
         marginBottom: 24,
       }}
     >
-      LA DOLCERIA aROMA • LISBON combines artisan Italian gelato with a refined
+      La Dolceria aRoma Lisbon  combines artisan Italian gelato with a refined
       specialty coffee experience in the centre of Lisbon. From expertly
       prepared espresso and flat whites to indulgent affogato creations, our
       coffee offering is designed to complement our dolceria and gelato menu.
@@ -586,7 +586,7 @@ backgroundPosition: "center",
         lineHeight: 1.9,
       }}
     >
-      Located in vibrant Chiado, LA DOLCERIA aROMA • LISBON is a destination for guests looking to
+      Located in vibrant Chiado, La Dolceria aRoma Lisbon is a destination for guests looking to
       enjoy elegant desserts, quality coffee and relaxed hospitality in one of
       Lisbon’s most iconic neighbourhoods.
     </p>
@@ -611,7 +611,7 @@ backgroundPosition: "center",
     </h2>
 
     <p style={{ color: colors.textSoft, fontSize: 18, lineHeight: 1.9, marginBottom: 24 }}>
-      Beyond gelato, LA DOLCERIA aROMA • LISBON brings the spirit of Italian dolceria to Lisbon with
+      Beyond gelato, La Dolceria aRoma Lisbon brings the spirit of Italian dolceria to Lisbon with
       cakes, pastries and elegant dessert creations designed for every moment of
       the day.
     </p>
@@ -658,11 +658,11 @@ backgroundPosition: "center",
       },
       {
         q: "Do you serve specialty coffee?",
-        a: "Yes. LA DOLCERIA aROMA • LISBON serves espresso, flat whites, affogato and other specialty coffee creations designed to pair beautifully with our gelato and desserts. We are truly farm to cup, not only do we roast our coffee, we grow it! We have our own plantations in South America and Africa.",
+        a: "Yes. La Dolceria aRoma Lisbon serves espresso, flat whites, affogato and other specialty coffee creations designed to pair beautifully with our gelato and desserts. We are truly farm to cup, not only do we roast our coffee, we grow it! We have our own plantations in South America and Africa.",
       },
       {
-        q: "Where is LA DOLCERIA aROMA • LISBON located?",
-        a: "LA DOLCERIA aROMA • LISBON is located in Chiado, one of Lisbon’s most vibrant and historic neighbourhoods.",
+        q: "Where is La Dolceria aRoma Lisbon located?",
+        a: "La Dolceria aRoma Lisbon is located in Chiado, one of Lisbon’s most vibrant and historic neighbourhoods.",
       },
     ].map((faq) => (
       <div
@@ -731,7 +731,7 @@ backgroundPosition: "center",
         marginBottom: 24,
       }}
     >
-      Located in the heart of Chiado, LA DOLCERIA aROMA • LISBON offers a refined
+      Located in the heart of Chiado, La Dolceria aRoma Lisbon offers a refined
       pause in one of Lisbon’s most iconic neighbourhoods. Surrounded by
       historic streets, boutiques and cultural landmarks, our gelateria and
       dolceria is designed for both locals and visitors exploring the city.
@@ -745,7 +745,7 @@ backgroundPosition: "center",
       }}
     >
       Whether enjoying artisan gelato after a walk through Bairro Alto or
-      relaxing with specialty coffee during an afternoon in Chiado, LA DOLCERIA aROMA • LISBON brings
+      relaxing with specialty coffee during an afternoon in Chiado, La Dolceria aRoma Lisbon brings
       together Italian craftsmanship and Lisbon lifestyle in a unique hospitality
       experience.
     </p>
@@ -764,7 +764,7 @@ backgroundPosition: "center",
     </h2>
 
     <p style={{ color: colors.textSoft, lineHeight: 1.8, marginBottom: 40 }}>
-      LA DOLCERIA aROMA • LISBON has been recognised by local media for its
+      La Dolceria aRoma Lisbon has been recognised by local media for its
       artisan gelato, specialty coffee and boutique dolceria experience in
       Chiado.
     </p>
@@ -813,7 +813,7 @@ backgroundPosition: "center",
         }}
       >
         <h3>Featured by NiT</h3>
-        <p>“La Dolceria aROMA: a nova gelataria italiana do Chiado tem pastéis de nata com gelado.”</p>
+        <p>“La Dolceria aRoma Lisboa : a nova gelataria italiana do Chiado tem pastéis de nata com gelado.”</p>
         <a href="https://www.nit.pt/comida/cafes-e-bares/la-dolceria-aroma-a-nova-gelataria-italiana-do-chiado-tem-pasteis-de-nata-com-gelado" target="_blank" style={{ color: "#f3d6b6", fontWeight: 600 }}>
           Read More NiT →
         </a>
@@ -1074,7 +1074,7 @@ backgroundPosition: "center",
     boxShadow: "0 12px 30px rgba(0,0,0,0.2)",
   }}
 >
-  Get Directions to LA DOLCERIA aROMA • LISBON 
+  Get Directions to La Dolceria aRoma Lisbon
 </a>
 
     </div>
