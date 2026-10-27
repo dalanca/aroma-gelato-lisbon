@@ -1,4 +1,22 @@
+
 {
+  "redirects": [
+    {
+      "source": "/familyoffer",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/hoteloffer",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/festivaloffer",
+      "destination": "/",
+      "permanent": false
+    }
+  ],
   "rewrites": [
     {
       "source": "/(.*)",
