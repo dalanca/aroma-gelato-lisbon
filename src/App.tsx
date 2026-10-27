@@ -9,24 +9,8 @@ import aromainteriorcones from "./images/aroma-interior-cones.jpeg";
 import pasteldenata from "./images/pastel-de-nata-chiado.jpeg";
 import cakepops from "./images/cakepops-lisbon.jpeg";
 import coffeePhoto from "./images/specialty-coffee-lisbon.jpeg";
-import { HotelOffer, FestivalOffer, FamilyOffer } from "./OfferPages";
-export default function App() {
 
-    const path = window.location.pathname;
-  
-    if (path === "/hoteloffer") {
-      return <HotelOffer />;
-    }
-  
-    if (path === "/festivaloffer") {
-      return <FestivalOffer />;
-    }
-  
-    if (path === "/familyoffer") {
-      return <FamilyOffer />;
-    }
-  
-  
+export default function App() { 
   const colors = {
     bg: "#f8f4f2",
     bgAlt: "#f3d9de",
